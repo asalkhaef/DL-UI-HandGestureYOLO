@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Hand_Gesture_YOLO_AsalKhaef/train.txt
+val: /content/drive/MyDrive/Hand_Gesture_YOLO_AsalKhaef/val.txt
+
+nc: 15  # Number of classes
+names: ['Punch_VFR','One_VFR','Two_VFR','Three_VFR','Four_VFR','Five_VFR','Six_VFR','Seven_VFR','Eight_VFR','Nine_VFR','Span_VFR','Horiz_HFR','Collab','XSign','TimeOut']  # List of class names
